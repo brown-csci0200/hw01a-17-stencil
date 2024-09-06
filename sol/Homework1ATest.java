@@ -27,7 +27,7 @@ public class Homework1ATest {
      * Here's the format:
      * @Test(expected = <exception-type>.class)
      * public void <test-name>() {
-     *      code that results in exception
+     *      code that results in exception12
      * }
      *
      * Here's an example:
