@@ -3,7 +3,7 @@ package sol;
 import org.junit.runner.JUnitCore;
 import org.junit.runner.Result;
 import org.junit.runner.notification.Failure;
-import test.Homework1ATest;
+import sol.Homework1ATest;
 
 /**
  * You can run the main method in this class to print which tests have failed

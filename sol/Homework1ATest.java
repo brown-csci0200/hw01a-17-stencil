@@ -1,4 +1,4 @@
-package test;
+package sol;
 
 import org.junit.Assert;
 import org.junit.Before;
